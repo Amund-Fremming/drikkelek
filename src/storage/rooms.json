@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "questions": [
+            "Liker du ost?",
+            "Liker du kake?",
+            "Har du en tusj?"
+        ]
+    },
+    {
+        "id": 2,
+        "questions": [
+            "Har du motorsykkel?",
+            "Hvor mange iskrem kan man spise?",
+            "Liker du (s)eggs?"
+        ]
+    }
+]
